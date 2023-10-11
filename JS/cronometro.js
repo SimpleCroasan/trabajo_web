@@ -1,8 +1,8 @@
 
 //establecer las variables que se van a utilizar
 let horas=0;
-let minutos=59;
-let segundos=55;
+let minutos=0;
+let segundos=0;
 let cronometro;
 
 //guardar en una variable cada uno de los elementos que se van a modificar
